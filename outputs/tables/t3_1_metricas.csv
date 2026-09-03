@@ -1,0 +1,9 @@
+﻿variable,universo,n,media,mediana,desv_est,min,p25,p75,p95,max,suma
+view_count,A · 293 videos,293,60430.09,1175.0,515798.31,2,215.0,7465.0,130466.99999999984,8190449,17706015
+view_count,B · 19 videos con comentarios,19,20046.11,1954.0,68934.23,52,695.0,8424.0,43188.89999999938,304089,380876
+me gusta por comentario,B · 406 comentarios,406,5.73,1.0,30.66,0,0.0,2.0,14.0,405,2325
+reply_count,B · 406 comentarios,406,0.13,0.0,0.58,0,0.0,0.0,1.0,7,51
+tokens de contenido,B · 406 comentarios,406,10.22,7.0,11.23,0,4.0,13.0,27.75,110,4150
+comentarios por video,B · 19 videos,19,21.37,7.0,36.82,1,2.5,25.0,61.09999999999977,161,406
+autores únicos por video,B · 19 videos,19,18.05,7.0,29.46,1,2.5,18.5,56.899999999999835,128,343
+comentarios por autor,B · 332 autores,332,1.22,1.0,0.68,1,1.0,1.0,2.0,6,406

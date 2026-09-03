@@ -1,0 +1,4 @@
+﻿variable,n,min,mediana,media,max,p95,asimetria,lim_sup_Tukey,n_atipicos_Tukey,lim_sup_Tukey_log,n_atipicos_log
+view_count (videos),293,2.0,1175.0,60430.1,8190449.0,130466.99999999984,14.26,18340.0,49,1517186.8,2
+reply_count (comentarios),406,0.0,0.0,0.1,7.0,1.0,7.2,0.0,30,0.0,30
+me gusta (comentarios),406,0.0,1.0,5.7,405.0,14.0,9.88,5.0,48,14.6,19

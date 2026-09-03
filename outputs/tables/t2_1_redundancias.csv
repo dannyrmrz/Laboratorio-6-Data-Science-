@@ -1,0 +1,4 @@
+﻿par,coincidencia
+videos: upload_date vs publish_date,100.0%
+videos: owner_handle vs channel_handle,100.0%
+comentarios: author_handle vs '/@'+author_name,96.6%

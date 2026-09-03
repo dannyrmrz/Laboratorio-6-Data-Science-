@@ -1,0 +1,6 @@
+﻿relación,n_ids,n_etiquetas,ids_con_mas_de_1_etiqueta,etiquetas_con_mas_de_1_id,biunivoca
+channel_id ↔ channel_name,97,97,0,0,True
+channel_id ↔ channel_handle,97,97,0,0,True
+author_channel_id ↔ author_name,332,332,0,0,True
+author_channel_id ↔ author_handle,332,332,0,0,True
+video_id ↔ video_title,19,19,0,0,True

@@ -1,0 +1,6 @@
+﻿dataset,variable,faltantes,pct_faltantes,n_unicos
+youtube_comments,viewer_rating,406,100.0,0
+youtube_videos,description,26,8.87,234
+youtube_videos,description_snippet,25,8.53,236
+youtube_videos,published_time,13,4.44,80
+youtube_videos,view_count_text,13,4.44,259

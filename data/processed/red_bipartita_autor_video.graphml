@@ -1,0 +1,6286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="polaridad_media" attr.type="double"/>
+<key id="d12" for="edge" attr.name="respuestas" attr.type="long"/>
+<key id="d11" for="edge" attr.name="me_gusta" attr.type="long"/>
+<key id="d10" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d9" for="node" attr.name="view_count" attr.type="long"/>
+<key id="d8" for="node" attr.name="categoria" attr.type="string"/>
+<key id="d7" for="node" attr.name="canal" attr.type="string"/>
+<key id="d6" for="node" attr.name="n_comentarios" attr.type="long"/>
+<key id="d5" for="node" attr.name="grado_ponderado" attr.type="long"/>
+<key id="d4" for="node" attr.name="grado" attr.type="long"/>
+<key id="d3" for="node" attr.name="etiqueta" attr.type="string"/>
+<key id="d2" for="node" attr.name="componente" attr.type="long"/>
+<key id="d1" for="node" attr.name="tipo" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="UC-HeUTT6_g-VoiWds2a4H-w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JorgeMunoz-gd9et</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC-Iul5tDYH_oiAMXQH-KaaQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@AlbertoMancilla-p9h</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC-QOpE7GOxlXcHZ8b7HbQKA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@mariaalexander427</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC-fiZBS5Gp1eCJd9ucgWnCg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Tommii.10</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC-hfX8J5JPJ-dfuakzegMLA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@normaleticiaorozcojuarez2418</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC-jS_kA9w-OmpupXDx156Rg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@simoncreyesc7579</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC-pNP6RMFuLg_-x7Ah_0kEA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@almacatalan2717</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC094EFEmMSdwVa8NQjjYBXg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@CelestinoQuej-j7k</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC0HvfEWozTHbwl_iEmJNvVA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@OttoPalencia-b7r</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC0RpuMwkDKJYqgKHtsJRuWQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@sabinamarinaguerra3248</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC0aEyakBPqcBkVJiErfSupQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@jhonymanuel9891</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC14qlobYKqD-DO0j6b75lcA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@megavision4488</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC1DpqK6vaPEkBOMNvypsKYg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@HectorCarranza-u4j4o</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC1NiEdJ7gk6FlDexIalWnGg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@BorisTebalán</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC1WlJfQmaIskYhP4gmWoamw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@marthareiss5434</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC1Y7x3h0c95Z8kUhi-Tzaeg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@rosadiaz9235</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC1vr9aaMI2crB0NvwFHUeoQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JoseSimilox-p6e</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC2Y_EHWQKevubk4vOEBBFxw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@alfonsomorales2653</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC2ngpd8UBQu4gcUYy0goAtg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@juliohernandez7438</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC2weSE8rpqkGMOp6StYtVfg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@katerynsantiago2907</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC32oozucwCF3q8d4m8fyOUg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@RauldejesusOlivagonzalez</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC3E9mAgP7VoAE5mZoAexl5g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@EnnioAroche</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC3MYTqpQqlWBuCB7Th0e0PA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@isaaclopez7220</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC3NMzdMYryaw82kPTnsaljg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@marisosa7832</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC3UVO7pTbeYvZ3ILEyRDskQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@rosaelenaargueta79</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC3XTwHxygNCgjndsg-UiCQA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@marioajset4283</data>
+  <data key="d4">1</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC3YpzAr7pcdKC7BVFEpYzog">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@carmenfigueroa1232</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC3iIU62XKUOWuqL8BqBzj9A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@antonioduarte2288</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC3qn1yJA5PeW9rkGPatQxiw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@VICTOREST19</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC4Avya4kmR4Q0FrfFdBozSQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@davidlima1348</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC4cXueR2bKGFJV0Fk76gwmA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@aluxdel4792</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC4kg7zuTfqQKLd2bkZrSYBA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@zoilagarcia9019</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC4wq3DcbfaG6dtCqn8Oyu3w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@hugoasencio7764</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC5H8ASmMC9WrURmzeB4ySog">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ManuelEdran</data>
+  <data key="d4">1</data>
+  <data key="d5">5</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC5PrBbmUlQolwqmiru7yZhw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@lazarochavez8269</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC5PyGvSfFM--OVKmQ3COu6g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@FreddyGmez</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC5bG9nc_JV3FsNP2KseQiYw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@giovannirodas4836</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC5fvhAfm89JH8eDFdvc0xYw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@isaidiaz2388</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC5hvEnRUzI4Kfvwnyi4QxqQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@leonelsantizo5281</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC5wuDq3U3vRAhOQI3D7gNdw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@allanreneramirezgonzalez534</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC63tFvbQ_hJhGDi2nbjssjw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@AbigailRodas-w2r</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC650pRT-OYzny3GwOH8Cgfw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@edvinparedesherrera7632</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC6PvO1_k5lHKGdAPo5_C6TA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@johnmejia992</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC6Uj1FT5JjDSF8vudvDxPAA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@alfredoortega9264</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC6YSZqL0vEcI-niPKIMUGfw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@maxwellsales885</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC6xI_MOaxajIWpoP8BH6E_Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">6</data>
+  <data key="d3">@jahirdiaz5862</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC72gBAtyb_VXQlYDcFrh6oQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@osmanmorales3012</data>
+  <data key="d4">1</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC7IMsCxfZyWN7YQo8-JYa6Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Burgos68</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC7VUuJr9cGh845CmTvf7TlQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@LuisCastillo-oz4df</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC7dadZG7kkGYnsNu6td0FbA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@lesolorzano</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC816IGbFCZinfYS1LRDaaHg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ingenieroar</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC8F2V63KZ4ZEay6opX2hAQw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@carmenr6311</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC8G5cJONY8L9voMyBW8Eoug">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@luisparedes-pw6qt</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC8r11yOugM2NuRfitQOxLLg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@cesaraugustomoralesmonroy6907</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC8xlJWNHz1V_W6q3fbuQH8g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@NormaLópez-v7e</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC95PSMouTx2N5CbSq0hIyrQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@lisss1908</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC9Wp6vL5oCU37qC3Aj94WZA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ManuelSanchez-b8q2z</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC9vMq1YF-e7C-VO0SHkbUTA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ErvinLeonardoCarreraLatín</data>
+  <data key="d4">1</data>
+  <data key="d5">4</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC9xr9QvIcDvoZNUX5f-jaZw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@MariaaliciaColonmorales</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCA93ym2TXs_Ibyxb4Vcn-6Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@oswaldosolis8728</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCAKuKvcbfnBD3kF5njNu-IA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@melvinlopez7096</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCAV7QIjYhbDJaycQycM_0eQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@mariavail8998</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCAlzM_N6xBlMYmM8EBzX86Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@carlossoto3252</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCAmtbUiIrUIhikru0ZoTFig">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Aura-vf6dm</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCAxvOOHQk7dYPOajzFEVtbA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ruddydepaz322</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCB5p8a5gklc80jJItP6xTHg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ernestogamboa8737</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCBlm80VQ4YoV3bUJR_XhkaQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@rosadiaz6945</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCBtB5dIyx-C16UN8ClUD2UA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@alexmonzon4257</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCCBYcToQ2dwkd6TJh0FSyDg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@lidiarodriguez3493</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCCUmP4PlbwgikVFpYwbtRTg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@alhvi</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCCaYwkkbQGcvFoUmothVdQQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@OsvaldoAguirre-l3i</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCDIMztpVm7G27qBuiWuT6oQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@lizardomorataya8274</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCDPWkUX3sNNaCx-m1dV4glA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@hectoroliva949</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCDQaQv0hr2SS_PO-CMEwVHg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@federicosaquimux1933</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCDUffaruH6dyUnUGwsTKpgg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@luisletona2842</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCDftMWXQoJ6nONfY7GVOVjg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@luisgpacheco5858</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCDlr1VadSucIZgZ171pRBjQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@cuabatzjj5924</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCDrmf9y9nLgFY5wnA2hTuGA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@laboratorio5528</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCEHXl4VvvVpq-_4xC5tsbhg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@anibalg47</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCEgEQmRbtL5fwr9_DqAC--g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ArielRodas-g5y</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCErZPJpHmLCsXs8ZWkAUupQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@dorisl.garciaroche7763</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCFFrEmn6lPYiWyElpfzTy5Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@denilsonlopez4083</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCFOxCyF926Y9eHhMeVoWLzw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@arielsarc09</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCFUuDARXdmmIrLppEqf-rFg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@allanmunoz7410</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCFhxtoeARHPnXXPcDrOU3Xg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@diegoalejandrolopezmendez205</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCFjudnPLoaSL1BaRuLahyHg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@HaroldoCastillo-rh9iw</data>
+  <data key="d4">1</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCFoIAE8k82D6AV-8gjjKaNg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@eddymunoz9789</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCFxE8GbokBrBsPEKM1xrOjQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JuanDavila-qd7qj</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCFybmWapGvBKcQod7cPPH9w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@vitalianochavez8382</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCGGHbtfbbe0o68etrOf0qxw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@karensussetteleonvargas9794</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCGX_UbAQOXGZknv5iqklwTA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ronaldgarcia8522</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCGZMgmM92E3njyXNe9-kjAQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@pasionpornada</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCGj2v6Gl5bN8NSrzJMXS-CA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@juliogutierrez492</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCGm3gRBEHGRJYmtCryZLtDw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JoséLopez-g6k</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCGqKxQS-z3NZzZF-2w338AA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@samuelaguilar529</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCGzXwyCzMzGmjmCbH3Hg01Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@FidelZacarias-ph7dy</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCHGd14aYuZZShLD73dkk6mg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">4</data>
+  <data key="d3">@noemiherrera3152</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCHMQ_lDhibZ-XZ_3fo6oxwg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@crislexrubi4387</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCHTGCgY2l-DQJIvlA_cpa_Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@virgiliogarcia3039</data>
+  <data key="d4">2</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCHbwIx9pmQuf7i-4_xO2EpA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@caminoseternos752</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCHhHUjaMAZ8SiXdCUCj9DkQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@fredymendez1786</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCHu8x4MVkayU6VgwVKd--MQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Hernandez-i1o</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCIUhbSCy3-SGRe5UtqM4fzQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@jeanmorales1677</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCIXLDYqR_syskKRJy_x9W9Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@carlitosramirez4739</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCIgoiXdIKJyUGmUoH2Lxdzg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@susievidal4134</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCIp19h9igblA2YKfSLPDAug">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@JoseReyes-rn6sh</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCJp3OrVYcBorC94sKwdch_A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ULJoshmg2011</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCJxJC56BSAX-ArD0NAb9qnQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">5</data>
+  <data key="d3">@alfonsowilian9157</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCKDR0f2fu2UzWL8mBv5-BHw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@mireyamorales6595</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCKVzDUqbtdSMBcexaEtMmzQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">3</data>
+  <data key="d3">@rotorairgroup8409</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCL13XhnRzbGokEkCkEOb0-g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@raquelprado3643</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCL1MT278vSaQ83ZDkVWn1gw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@elmorodriguez6978</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCLFdHr9BEbXHkoJopbEPLZw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@kanterra4584</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCLXYp1Cvc5DLtq5UQL5D9vw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@jorgecifuentes-m5g</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCLggDc_a5HriXv7I1h02sOA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@guillermogonzalez5153</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCLh1Kde4_vI1sTZBkTNP7RQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JoelReynoso-d4r</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCN2N_wYOw6fMwCeSzdXLPIw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@danielantoniogonzalezflore4901</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCN6qbfPSzFtjhqUDZ3Cv3CQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@carlosmedranovelasquez6380</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCNBnKqWf4d-rS4HwJRQljmQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@LE_A22</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCNIeXbV_mEwpa412h1aqUWw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@juandeleon9060</data>
+  <data key="d4">1</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCNiMNUJvaRJb0_QLClqwVnA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">3</data>
+  <data key="d3">@Santiago.Nolasco</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCNkcuy42zEwddwEcOd_HpnA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@vanigomez492</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCNpt5CQlTzNjlAKY6CJtClQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@eustaquiogomez9975</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCO0zwwLWGyDgQmWPJ5Qrr1w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@elsalvador3605</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCOARn3hnfkB7-_Rwa8Hoqcw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@nicelol5241</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCOLGv5Pf6BF2wFcwUzgcvHg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@welfrealdana5559</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCOLHH4ZpMxPYF-Q6e6wvn5A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@luisroldan7374</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCOS8ViEkccrTZx2w2ccxotA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@OscarHernandez-q8y</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCOY3XpD9qMCRSA8AA8c4CAw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@franciscorodas9686</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCOcUI5XkTYNMSFhZNMIPpGg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@hendersonlopez3864</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCOh6DaZC_x9HASnlRylEMfw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@AndresMedina-v1s</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCPLW0HE3siElqCgXfgWxMqg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">7</data>
+  <data key="d3">@elizabethmonterroso7719</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCPNXmbOBVeC4HS-xemvcPtQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@BelkisRodriguezRamirez</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCPZueDLrCS4BmTBRMA4q0fA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@kevinochoa3695</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQIdKuZ-OzuFqy0KjGrgesg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">4</data>
+  <data key="d3">@lyacausa</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQM2tCKRRytVDRxNUfCDqQQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">8</data>
+  <data key="d3">@elioelias7267</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQMMuADgqWUOcJpLwHOzC-g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@Ripped-Yoda</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQ_-LPP8JAbfkc-b1Q6NvWw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@MegaKristenstewart</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQgYjVngJRfPHDLGB5X6ZjA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@oscarnavas9996</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQqetiwzzmRNTM5OWuXarGQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@isaiaslopezvelasquez1539</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQqlPPUGqAfWjd-FSh_qn7Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@estuardoargueta137</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQtICyzWmhC5woCtbNgaSmg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@nestormendez6216</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQtSFINs1h6GHkpg9o5kMvg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@MacarioMartinezruiz</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCQyOePccUP-fIJYzchAgZYw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@aguilar4254</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCRAquv8el-tQ30bN7MlmySQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@iamjimalesssa</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCRETAiYdh2dL5ZxB0_N1zDA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Joseroland21</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCRcSR3Lvn9DZAmJpVPANfZQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@WalksandSuch</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCRelkU8JiZBytTzebJxaa-w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@danyraymundo2942</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCRfkkatKrNtAARnXMMYBGlA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@BernerSoza-mg3vx</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCRlCV9zSn7avAWh-9_XFWqQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ronyarana8849</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCRvPToDkkumha7WJAfCDk1A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ligiaguerra3057</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCRznz9-N3Qc1w-qNdLSIY2Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@jimmygomez724</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCSTAUWVc1_82DHYeqOsqEFA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@TheAlexX_C</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCSou6a2OuYGSvPjm5psquyA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@FranciscoRivera-sf7ne</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCTD6q1nyIe3Y7HhqjaMj72w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JuanChang-r6k</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCTP3O0rMnc8z8v8jaDQwL0w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@RobertoZelaya-x1v</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCTTILH6QCIxbTnEWxwRqs1g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@3762Jorge</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCThW2XNsAaBKme5PUt7n-Zg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@thelmamoran8565</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCTwSut16JyAg3mX6LVUNGqA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@SuperVictor2005</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCTylKrsqkrBKIqubMu_5N0Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@edwingeovanymarroquinmarro6684</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCUIIIPTVDVHAXqhC_5V6lPA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@gorrarota</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCUoYsrx1oZnCZ0usbBJn4fA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@AnaDiaz-re9sq</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCV0iizTBoOfdAFX_thfI9BA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@BenjaminLarios-jd8nk</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCV0lM03g5fg5pbPj97-sAtA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@genarodelgado3929</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCV3fr-YOixFKCZBbJP1-X4w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@albertoshernandez5251</data>
+  <data key="d4">1</data>
+  <data key="d5">5</data>
+  <data key="d6">5</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCVC2QugcI1G4RvlCiUqd1aQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@rwdm76</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCVQf0tzL7xRzFJsABVVULpg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@DennisseLopetegi</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCVdjCrh4tQoX3haNAZv-n5A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@aurahernandez5646</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCVhif9eV0f8plICen2DnpKA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@blogarteplus</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCW-JC6lebVmf2P1dmY_L94g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@dinoraoroxon5771</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCW80DaMjQlEUibC98Cot-Dg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@rogeraldana4289</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCWIZUtKJ636y-4TYrNvok0g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@cesarandreas7824</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCWWkebAekppaL5b5CNlppuw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">4</data>
+  <data key="d3">@ninettmartinez425</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCWaRixDdpgllTBf4V0jPnKQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@hectormaaz5523</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCWoAVGVqCn4xtINCMOTM4jg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@OmarMartinez-vv8re</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCWvntqPQx99k_Z_skWKqNSA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@AntonioChiyal-x5s</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXN2s7DwTJm33xO-pNkAdaA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@edithsan7688</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXO1BBohNWXkK9SBDAG2ySg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JBFlute92</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXSkL3ejZ8qWYyF_M7s_QKA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JacintaTzoy</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXVLc8CmAO813ubM-fLvCDw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@herminiasaquimux7565</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXXh7yg5KUFIWylTiKVEFKQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@MrDuenderojo</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXgr7vXlRrsaskPdo097kGA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Rogergh-nw4oj</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXl30Y_upRqbti52fmjK4YA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@capitanfrans</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXmrpc6Li0spcKxtS0Q_ptg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@melvinperez6710</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCXr8_5WtGeipe4haOoQDgyQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@amyherrera7352</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCY7Hq7F9Lnucf-Yr6JkHZNw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@maynorcalel1442</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCYN4wSQ1Sx4_LurxLlW7MPg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@belarminavillatoro6474</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCYwpX26TrCxq8TvbKGRYLXA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@beneficioelcaminovillacana8540</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCZ51R_9Q9C0c8I3pAWhtmjQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@belvettzapeta1251</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCZFQwqh90apuL8eFhvRBkUg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@luisricardo9671</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCZIQnb1fkwe39Iw2TAu-bGA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@jorgegomez2237</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCZLG9qH0tUjNhEGFIUt0CYw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@SoniaMarroquin-y6e</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCZOmq6MwFDVoCaEl99BRRaw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@daniloarevalo3170</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCZeIIQrGAedW8tCbKWmGY-A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@mariocordon8873</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCZjm6U576nX8WOiLhmMR3bw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@MariaNavarroYT</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC_3xuTXvMIWU5MYP9HkJ3vQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Historia-wm4os</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC_6KbBY1bsYXz9fwFS0eQRg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@imrcp5694</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC_LYoGs5C3mbZKZuKuqYCvw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@javiercifuentesarchila6041</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC_NRVt2UP88ZNTwzrZ66JSg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">9</data>
+  <data key="d3">@aditalissethevasquezrojas8039</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UC_ljZ1hZXR9pzexFz87P5ZA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@ChRiStOpHeR7969</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCa36MjQLoPAmgJo-R3G8WQA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@elsasalguero6914</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCaKAjTW9MVub_clgr4DRYjQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@josecastillo4390</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCaT4saRcyqCLE657Rq2hhZQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@elmilenial4064</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCaT6M2zp7X6r6Whd8Vv3kHQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@alexarcos8349</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCat2qkYvqmtDNEmo2PVuhXw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@DoraSalas-j5o</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCbNanjFI51cwGqMAb2rOrBw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@RosaMontesdeOca777</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCbYoNG5J3Au5BqtbXogfEFw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Luis-gn3fj</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCbrtvygfRT6QXqWDNrOf-cA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Alejandro00710</data>
+  <data key="d4">2</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCcFIBN-rtC3d3hXeuN5TfWw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@DenisRMC</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCc_F88PzGWtA1OPNUEASulA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@rockyscarlet</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCcfdg8crmMJwEuLUsAhV7yg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@RolandoRaguay</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCdFlugHJJa4l3YqWuNRmvXw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@MarcosCarillo-b1r</data>
+  <data key="d4">2</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCdQAuWwyC99MB7Y02Umj26Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@miguelbran1268</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCe8JZoYkX5oKUZyivHYdXhw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@FernandoGarcia-jg1fj</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCeDNEtI8_a42bZ47wJiJMwQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@EdgarcalderonCalderong</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCeQk-WfEA-cJRq4EKeE7TOw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@franciscojuarez9223</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCefAH1MbvADWUjE9WVcB9EQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@jabriz8152</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCf5lnNZF7Qrtli9v4N_23WQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@CarlosCortez-v5r</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCfM3nrxtTQMY5jFx1v1J4Gg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@edgarroldan5539</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCfRqgt2O-vjzUDMZY_tnxQw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Williams-Garcia67E</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCfXykdbSU97rj987LDUGfvg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@MariaSantos-c8y3h</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCfjhejO7LZy4doXURa7LZCQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@HonwayLee-z5g</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCfo_yUPzy1f1POwwZxhZ06Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@lara11roberto</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCg3eIfd7BrsLEqS0BLkftHA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ErmePérez-q4s</data>
+  <data key="d4">1</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCgGqw4aqMdMVSGkKiMgrJRQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@pattyfigueroa5609</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCgJNFj5dnxXpcMvmuhZDPxA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@NataliaRodriguez-rx5mr</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCgLrWFdYitoP-b7-PxtUr-w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@zetag</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCgLurCo-e019HGODcjXHWCw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@perritojuega1</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCgQJgI9vu1FI2dnC9mrFthw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@srms70</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCgQw_Sbq3ugruDUKsq1e0-A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@marlenareano-h4t</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCgvw7xIdGFupzpt1Y_BFkEA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@fredygarcia9151</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCh5ESQvtzyHDhCA7XyekCFA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@andyB5280</data>
+  <data key="d4">1</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UChT7pzGytNd92Nmvi-zuWog">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@sparkvalkov</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UChZknRmJkeGeQk0-mQuhDOg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@OdilioRodríguez-c5w</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCheEJ5GZuIvV0fj-nXyVwXw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@rosaoliva9389</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UChep9kVb5gQmpodEEl10Xlg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@carlosaguilar-kz7ml</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UChgkn5Jt5tWKYMoEOuCjz3Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@pablochitay46</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UChs3tU2BcKOT0CezykvAsGw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@byronpontaza</data>
+  <data key="d4">1</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UChyps3dqY-VY1_wLeq-2lhw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@maydamorales4395</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCi-vPdnpQreC7BkFs40mJGA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@bryansicasales4280</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCi1b_TRQfgO1Z9O2gNGGWNA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@davidisraelesquitsaquil</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCi2KiZq63sRq8Mfbcp-MelQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@eugeneramirez4405</data>
+  <data key="d4">1</data>
+  <data key="d5">6</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCiC-Jn7wdgyQV4_Urk0DkWQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@pedroros6358</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCiGRBf2RNF0WRKhRVT7zFoA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@edwinavila4876</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCiMythXHsw7eQEMykCdmMUA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JavierBecerra-h6x</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCiOZX__1gahg1ypIj0_XG_w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@mariogonzalezorellana8956</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCipetjeiWj4CZB6EbyYziZg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@OseasSamayoa-ol5rz</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCj-LL25XJnjxepPKCc3NGog">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@anaaguirre8985</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCjJf-AJKRFFWtiN-CSwkDmA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@2jose82</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCjSKM9j0Q7HLDr1hD6D-TUw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@josehidalgo4875</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCjZgFEowMBrsjodqfovzdKw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@franciscoflores3120</data>
+  <data key="d4">2</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCjmPuazZJzscrwvk0QR9RVw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@mynorrodas8591</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCk4O-J1BhoqPmig1KLGJePA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@lazarobarillas3575</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCkVtmkK07b2zaVVNssX4lOg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@HectorElias-u2l</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCkbsS_3D-pvg1iHOld9uvIg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@gonzalo6075</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCkd9W714-947dEE6ZOEBATA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ARGELIATELON</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCkxdJ_yGN2gghOMo2ybQtXQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@11223344An</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCl0ekS9Tt0jJGtOEM18S63w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@monkchapin</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCld2stqxaVSk0QdGncM224A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">3</data>
+  <data key="d3">@sarahernandez3873</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UClhMWQ7XKWywYvbRnuf8QsA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@EcPerez-zz9oh</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCljDbleJul41G1TzOjOZAVA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@hectorcarranza3777</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UClqA491Xa5fQcXcJJa-vTWw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@AndresLemus-k2d</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UClsrFGJKWPxxw7MiaEdKLXw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ericapaz5406</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCmjppp6ujz3SAnULvP3sZMw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@marcomendez7509</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCmvOgzmmXbjUthHy-WJ52hQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@mariorodas593</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCnU8wO1OurAmGstDw6VGjgQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@cmorera21</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCoGdCoJg2Lh0OX_jv6cG16g">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Israel-u5i7i</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UColMq7LmaoY3MT6aIDGrGvA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@quijotachapina1</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCozFYHN0e_-vlQbX3wQGOug">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@jesusguzman2321</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCp29O_C7cchZV8IxV7Crdag">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@robertoescobar5507</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCp4iw5_5SmV9VGTFSNVGOmQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@CARLOSSTREMS51</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCpIdtvoFHVLGASGB5ySqIEA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@VidalVillatoro-p4w</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCp_dAUfv8i3LW3zWc24dLaQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@MarioCortez-o6v</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCpe5jW3MIqkgTJ-PgkzvM6Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@carloslam5333</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCpl8rF8uv_8uui-QRvuJaRA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@SergioGarcia-z9c</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCplrIQtaPj6au60_f2-mOYw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@romeolopezherrarte799</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCpsKOkt5iWTbenzeuq7dsmQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@inge_vergueta</data>
+  <data key="d4">3</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCq3mDTTRZnUybct5M9OSXbg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@MacoMorales-i2i2d</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCqCrvuoJpC-aVb0f4logQRQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Lyrics_GT</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCqilIa8r7iek5sGYg_q6ofA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@rolandojuchuna484</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCql1n3Ey6ULMSOACjMe-fxQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@RolandoGonzalez-o7g</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCr1emrogPKkKTs_WTtx71xg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@domingopeneleu6457</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCrJn_rbo_ENAdeqneS-RmRw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@josecarrera9623</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCrqXyRsg-_hTosURZ-uvoKg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@flornolberto2425</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCsGoJEvb-cFPZ2rWoJcXzEQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@sergiohinestroza9709</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCsJJAvrVGupdmhOqgtDp8dg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@nestorlorenzana1168</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCsSXdJct-nsS8DsABoEsaYA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@IvánPérez-j4j</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCsUCN0Yq_UyTvKjOJLmNrnQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@moisesvaldez4043</data>
+  <data key="d4">2</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCs_5qeqdku9tGAq22y3OcuQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@alexandrevasquez4135</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCsjs5Hp_r86x1xbK6FAeqaA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@alvaroesquivel563</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCtCtts20bW6F9CSohau51Iw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@carlosgranados9875</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCtMBF_1O2jY2INlb_luuB_A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@mynorgudiel8646</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCtNfIBnc5S5DbbQj_yxgJTw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JosueRamirez-ey3ih</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCtNyHmRZtvGF2hSvI2dUBWw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@aureliomaldonado4793</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCtUR3_CAiE7fCoZHM6cMfyQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@mdelcid01</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCtiHFjFu7d5v2XxHnKFUYig">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@Paul-gf7ec</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCtowGNY2lnlg6O2CkwDgkLg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">3</data>
+  <data key="d3">@taniagabrielacelis8434</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCtsxPYw8VUsH_FfnKg-0lmw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@AlejandroPérez-b6r</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCu8_3-Wg-YzNyvHYQDEscfw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@RolandoCastroPérez-d7y</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCuP4UK33HKtJE_S39ksmaTw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@herbertaguilar1387</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCuXmOjxC-htcprLgeVXz6Tg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@jorgeaguilar-bq3uj</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCueV9cTyTDwgQSec1x2dYgA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@fredydomingo7062</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCujPF2nBgsTD62nWE3lcpIg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@victorarturoruanobautista7588</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCusjriFsDHEc2AOjqk-p5ig">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@pablobarrios7931</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCut6b9S98nv84cVX89PmKzA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@yeniferaguirre4498</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCvApqeCbLod-wejtT4CcVuA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@davidgaher9550</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCvDwJBBY1mHK70aTEYl6rsA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@cristianescobedo8296</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCvcu1kR8xMYy_I1Ty-2mV2Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@hashojea7348</data>
+  <data key="d4">3</data>
+  <data key="d5">4</data>
+  <data key="d6">4</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCvl1tzQeBeGy6efPTRJXSCw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@RaulPerez-cw2vi</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwCfs-2zbD5k0lG-UVg_JBw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@JessicaHuaz-96</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwEe1RKlEv1UpNWmWYfSh4w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@marioramirez299</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwO2SXr0ggzwg6QWWrr01nQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ricardofigueroa5720</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwUAv3_LpWVtTIi7lkmTL7A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@kingr4706</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwW2OFy95P7ZBkOPxWkpvYg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@TeresaLucero-b5o</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwgCc9Jd_gG-uLE_SY-FfPg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@armindapenados2841</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwha8rxULYMVtNwZWeSkE1A">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@mariasamo8637</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwjUvRseNtJoItylIyIez7Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Silviazea</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCwxoKK59nGCeBqB2sXfDBIw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@vic-bonivideos</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCxKR3RA8T-kxMgq_2WWhRcQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@elenaluarca9377</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCxcoDvP-g2_KTZDmVZtvb3w">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@angelmartinez9523</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCxff05WuyvwELNITi7bj7UA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@markoherrera</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCxhtlxPV8AYWaNNyU6S9H8Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">2</data>
+  <data key="d3">@WilR-s8r</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCyJhqmMbsvjpoarBBStA2kg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Murmullodelbarrio</data>
+  <data key="d4">1</data>
+  <data key="d5">6</data>
+  <data key="d6">6</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCySYJU5kUh7X8gVt9la2ISA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@dantesarti4351</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCyW68EGZey4ao_Vf2cR5Ztg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@ZabalaXabier</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCylqlpsh8ENNM1LqgQ1KbxA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@Jel.Awesh.M</data>
+  <data key="d4">2</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCyor0Mmm0ivLX2jIdyGp84Q">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">5</data>
+  <data key="d3">@MiguelJordan-n3g</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCyzf29IYjNw67gGIfsjgtxA">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">1</data>
+  <data key="d3">@carlosoliva9249</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCz3gu01bmjNv0DpRq-K3XYg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@eusebiovasquez4385</data>
+  <data key="d4">1</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCzSfZlOVxBSs5ObD25ywxDQ">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@GilmarMaldonado-q9m</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCzZ6dDCEsLMXbc5pCFXIprw">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@josegil3813</data>
+  <data key="d4">2</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="UCzoL2l5H5eVlorWGH8AZfAg">
+  <data key="d0">0</data>
+  <data key="d1">autor</data>
+  <data key="d2">0</data>
+  <data key="d3">@jor77cas</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9">0</data>
+</node>
+<node id="06mFNPU0aB8">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Capturan a presuntos delincuentes disfrazados de mujer señalados de cometer asalto</data>
+  <data key="d4">13</data>
+  <data key="d5">14</data>
+  <data key="d6">14</data>
+  <data key="d7">Noti7</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">6692</data>
+</node>
+<node id="3Nfp9h5avBI">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">5</data>
+  <data key="d3">Noticiero en Directo 1 pm, 28 de Agosto de 2026</data>
+  <data key="d4">2</data>
+  <data key="d5">2</data>
+  <data key="d6">2</data>
+  <data key="d7">Noticiero Guatevisión 13 Hrs.</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">573</data>
+</node>
+<node id="6W4u8sGEnGM">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Inician los trabajos de recuperación del Puente Belice II.</data>
+  <data key="d4">32</data>
+  <data key="d5">45</data>
+  <data key="d6">45</data>
+  <data key="d7">Gobierno de la República de Guatemala</data>
+  <data key="d8">Entertainment</data>
+  <data key="d9">11670</data>
+</node>
+<node id="JkpVO1hx2f8">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">4</data>
+  <data key="d3">10 Preguntas a un año del Paro Nacional</data>
+  <data key="d4">3</data>
+  <data key="d5">3</data>
+  <data key="d6">3</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">673</data>
+</node>
+<node id="OkXlHx0hx-8">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">2</data>
+  <data key="d3">EE.UU. envía a mexicanos deportados a Guatemala antes de su regreso a México | Noticias Telemundo</data>
+  <data key="d4">18</data>
+  <data key="d5">25</data>
+  <data key="d6">25</data>
+  <data key="d7">Noticias Telemundo</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">14200</data>
+</node>
+<node id="PjmxCj-a9Hg">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt</data>
+  <data key="d4">19</data>
+  <data key="d5">25</data>
+  <data key="d6">25</data>
+  <data key="d7">Gobierno de la República de Guatemala</data>
+  <data key="d8">Entertainment</data>
+  <data key="d9">3628</data>
+</node>
+<node id="TT4qJ5FXHYE">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">3</data>
+  <data key="d3">I’x K’at: el primer equipo guatemalteco de pelota maya, conformado únicamente por mujeres.</data>
+  <data key="d4">4</data>
+  <data key="d5">4</data>
+  <data key="d6">4</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">1075</data>
+</node>
+<node id="UhL9y3KUl8E">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">9</data>
+  <data key="d3">SHAI WA: la vecina queer de Casa Presidencial</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">1755</data>
+</node>
+<node id="WIUZtitfLRw">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Caminar en una ciudad hecha para carros</data>
+  <data key="d4">6</data>
+  <data key="d5">6</data>
+  <data key="d6">6</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">422</data>
+</node>
+<node id="X_FAIef8qlE">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">7</data>
+  <data key="d3">Cruzando la ciudad a puro Transmetro</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">1140</data>
+</node>
+<node id="b_Hkrkl3adA">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Bloqueos en Guatemala este 31 de agosto por alza en combustibles afectan rutas principales</data>
+  <data key="d4">7</data>
+  <data key="d5">7</data>
+  <data key="d6">7</data>
+  <data key="d7">PrensaLibreOficial</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">5469</data>
+</node>
+<node id="is3Mk5oC19g">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Capturan a ladrón que había quedado grabado mientras robaba en una parroquia de Retalhuleu</data>
+  <data key="d4">7</data>
+  <data key="d5">7</data>
+  <data key="d6">7</data>
+  <data key="d7">TN23 Guatemala</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">4616</data>
+</node>
+<node id="j43HgwYFKfk">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">La cooptación de Walter Mazariegos en la USAC</data>
+  <data key="d4">49</data>
+  <data key="d5">50</data>
+  <data key="d6">50</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">10156</data>
+</node>
+<node id="lj983NWyAQY">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">1</data>
+  <data key="d3">Plan 2032 Ciudad de Guatemala</data>
+  <data key="d4">25</data>
+  <data key="d5">25</data>
+  <data key="d6">25</data>
+  <data key="d7">Municipalidad de Guatemala</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">304089</data>
+</node>
+<node id="n8iP75gIpmw">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Qué rico come tu diputado</data>
+  <data key="d4">128</data>
+  <data key="d5">161</data>
+  <data key="d6">161</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">11775</data>
+</node>
+<node id="ndAZjHqzzT8">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Internet: escoger el menos malo</data>
+  <data key="d4">10</data>
+  <data key="d5">12</data>
+  <data key="d6">12</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">717</data>
+</node>
+<node id="s0eco-BofOs">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">6</data>
+  <data key="d3">¿Quiénes pagan más en Centroamérica?</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">220</data>
+</node>
+<node id="yLZS3JiEBg8">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">0</data>
+  <data key="d3">Arroz con pollo a la MONOPOLIO</data>
+  <data key="d4">16</data>
+  <data key="d5">16</data>
+  <data key="d6">16</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">News &amp; Politics</data>
+  <data key="d9">1954</data>
+</node>
+<node id="zweosulrwA8">
+  <data key="d0">1</data>
+  <data key="d1">video</data>
+  <data key="d2">8</data>
+  <data key="d3">Edén por Salud: empleo inclusivo para personas con discapacidad en Antigua | Super - Episodio 2</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">Quorum</data>
+  <data key="d8">Nonprofits &amp; Activism</data>
+  <data key="d9">52</data>
+</node>
+<edge source="UC-HeUTT6_g-VoiWds2a4H-w" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC-Iul5tDYH_oiAMXQH-KaaQ" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC-QOpE7GOxlXcHZ8b7HbQKA" target="OkXlHx0hx-8">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.833</data>
+</edge>
+<edge source="UC-fiZBS5Gp1eCJd9ucgWnCg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">6</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC-hfX8J5JPJ-dfuakzegMLA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">6</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC-jS_kA9w-OmpupXDx156Rg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC-pNP6RMFuLg_-x7Ah_0kEA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">5</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC094EFEmMSdwVa8NQjjYBXg" target="b_Hkrkl3adA">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC0HvfEWozTHbwl_iEmJNvVA" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC0RpuMwkDKJYqgKHtsJRuWQ" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">113</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC0aEyakBPqcBkVJiErfSupQ" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">70</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC14qlobYKqD-DO0j6b75lcA" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC1DpqK6vaPEkBOMNvypsKYg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC1NiEdJ7gk6FlDexIalWnGg" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.333</data>
+</edge>
+<edge source="UC1WlJfQmaIskYhP4gmWoamw" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC1Y7x3h0c95Z8kUhi-Tzaeg" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC1vr9aaMI2crB0NvwFHUeoQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC2Y_EHWQKevubk4vOEBBFxw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC2ngpd8UBQu4gcUYy0goAtg" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC2weSE8rpqkGMOp6StYtVfg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.333</data>
+</edge>
+<edge source="UC32oozucwCF3q8d4m8fyOUg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC3E9mAgP7VoAE5mZoAexl5g" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC3MYTqpQqlWBuCB7Th0e0PA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC3NMzdMYryaw82kPTnsaljg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC3UVO7pTbeYvZ3ILEyRDskQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC3XTwHxygNCgjndsg-UiCQA" target="n8iP75gIpmw">
+  <data key="d10">3</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.333</data>
+</edge>
+<edge source="UC3YpzAr7pcdKC7BVFEpYzog" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">4</data>
+  <data key="d12">1</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC3iIU62XKUOWuqL8BqBzj9A" target="b_Hkrkl3adA">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC3qn1yJA5PeW9rkGPatQxiw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">7</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC4Avya4kmR4Q0FrfFdBozSQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">11</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC4cXueR2bKGFJV0Fk76gwmA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC4kg7zuTfqQKLd2bkZrSYBA" target="is3Mk5oC19g">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC4wq3DcbfaG6dtCqn8Oyu3w" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC5H8ASmMC9WrURmzeB4ySog" target="n8iP75gIpmw">
+  <data key="d10">5</data>
+  <data key="d11">6</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC5PrBbmUlQolwqmiru7yZhw" target="b_Hkrkl3adA">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC5PyGvSfFM--OVKmQ3COu6g" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC5bG9nc_JV3FsNP2KseQiYw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC5fvhAfm89JH8eDFdvc0xYw" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC5hvEnRUzI4Kfvwnyi4QxqQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC5wuDq3U3vRAhOQI3D7gNdw" target="ndAZjHqzzT8">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">1</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC63tFvbQ_hJhGDi2nbjssjw" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC650pRT-OYzny3GwOH8Cgfw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC6PvO1_k5lHKGdAPo5_C6TA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC6Uj1FT5JjDSF8vudvDxPAA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC6YSZqL0vEcI-niPKIMUGfw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC6xI_MOaxajIWpoP8BH6E_Q" target="s0eco-BofOs">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC72gBAtyb_VXQlYDcFrh6oQ" target="n8iP75gIpmw">
+  <data key="d10">3</data>
+  <data key="d11">19</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.333</data>
+</edge>
+<edge source="UC7IMsCxfZyWN7YQo8-JYa6Q" target="PjmxCj-a9Hg">
+  <data key="d10">2</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC7VUuJr9cGh845CmTvf7TlQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC7dadZG7kkGYnsNu6td0FbA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">18</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC816IGbFCZinfYS1LRDaaHg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC8F2V63KZ4ZEay6opX2hAQw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC8G5cJONY8L9voMyBW8Eoug" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC8r11yOugM2NuRfitQOxLLg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC8xlJWNHz1V_W6q3fbuQH8g" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC95PSMouTx2N5CbSq0hIyrQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC9Wp6vL5oCU37qC3Aj94WZA" target="b_Hkrkl3adA">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC9vMq1YF-e7C-VO0SHkbUTA" target="n8iP75gIpmw">
+  <data key="d10">4</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.5</data>
+</edge>
+<edge source="UC9xr9QvIcDvoZNUX5f-jaZw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCA93ym2TXs_Ibyxb4Vcn-6Q" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCAKuKvcbfnBD3kF5njNu-IA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCAV7QIjYhbDJaycQycM_0eQ" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCAlzM_N6xBlMYmM8EBzX86Q" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCAmtbUiIrUIhikru0ZoTFig" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">7</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCAxvOOHQk7dYPOajzFEVtbA" target="06mFNPU0aB8">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCB5p8a5gklc80jJItP6xTHg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">6</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCBlm80VQ4YoV3bUJR_XhkaQ" target="OkXlHx0hx-8">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">3</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCBtB5dIyx-C16UN8ClUD2UA" target="is3Mk5oC19g">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCCBYcToQ2dwkd6TJh0FSyDg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCCUmP4PlbwgikVFpYwbtRTg" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCCaYwkkbQGcvFoUmothVdQQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.333</data>
+</edge>
+<edge source="UCDIMztpVm7G27qBuiWuT6oQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCDPWkUX3sNNaCx-m1dV4glA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.333</data>
+</edge>
+<edge source="UCDQaQv0hr2SS_PO-CMEwVHg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCDUffaruH6dyUnUGwsTKpgg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCDftMWXQoJ6nONfY7GVOVjg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCDlr1VadSucIZgZ171pRBjQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCDrmf9y9nLgFY5wnA2hTuGA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCEHXl4VvvVpq-_4xC5tsbhg" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">7</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCEgEQmRbtL5fwr9_DqAC--g" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCErZPJpHmLCsXs8ZWkAUupQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCFFrEmn6lPYiWyElpfzTy5Q" target="is3Mk5oC19g">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCFOxCyF926Y9eHhMeVoWLzw" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCFUuDARXdmmIrLppEqf-rFg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCFhxtoeARHPnXXPcDrOU3Xg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCFjudnPLoaSL1BaRuLahyHg" target="n8iP75gIpmw">
+  <data key="d10">3</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCFoIAE8k82D6AV-8gjjKaNg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">1</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCFxE8GbokBrBsPEKM1xrOjQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">10</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.5</data>
+</edge>
+<edge source="UCFybmWapGvBKcQod7cPPH9w" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCGGHbtfbbe0o68etrOf0qxw" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCGX_UbAQOXGZknv5iqklwTA" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCGZMgmM92E3njyXNe9-kjAQ" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCGj2v6Gl5bN8NSrzJMXS-CA" target="WIUZtitfLRw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCGm3gRBEHGRJYmtCryZLtDw" target="b_Hkrkl3adA">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCGqKxQS-z3NZzZF-2w338AA" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">211</data>
+  <data key="d12">3</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCGzXwyCzMzGmjmCbH3Hg01Q" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCHGd14aYuZZShLD73dkk6mg" target="JkpVO1hx2f8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCHMQ_lDhibZ-XZ_3fo6oxwg" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">16</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCHTGCgY2l-DQJIvlA_cpa_Q" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.333</data>
+</edge>
+<edge source="UCHTGCgY2l-DQJIvlA_cpa_Q" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">13</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCHbwIx9pmQuf7i-4_xO2EpA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.333</data>
+</edge>
+<edge source="UCHhHUjaMAZ8SiXdCUCj9DkQ" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">0.167</data>
+</edge>
+<edge source="UCHu8x4MVkayU6VgwVKd--MQ" target="b_Hkrkl3adA">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCIUhbSCy3-SGRe5UtqM4fzQ" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCIXLDYqR_syskKRJy_x9W9Q" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCIgoiXdIKJyUGmUoH2Lxdzg" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCIp19h9igblA2YKfSLPDAug" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">14</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCJp3OrVYcBorC94sKwdch_A" target="ndAZjHqzzT8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCJxJC56BSAX-ArD0NAb9qnQ" target="3Nfp9h5avBI">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCKDR0f2fu2UzWL8mBv5-BHw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.6</data>
+</edge>
+<edge source="UCKVzDUqbtdSMBcexaEtMmzQ" target="TT4qJ5FXHYE">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCL13XhnRzbGokEkCkEOb0-g" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">8</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCL1MT278vSaQ83ZDkVWn1gw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">20</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCLFdHr9BEbXHkoJopbEPLZw" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">24</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCLXYp1Cvc5DLtq5UQL5D9vw" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCLggDc_a5HriXv7I1h02sOA" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">7</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCLh1Kde4_vI1sTZBkTNP7RQ" target="is3Mk5oC19g">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCN2N_wYOw6fMwCeSzdXLPIw" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCN6qbfPSzFtjhqUDZ3Cv3CQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCNBnKqWf4d-rS4HwJRQljmQ" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCNIeXbV_mEwpa412h1aqUWw" target="PjmxCj-a9Hg">
+  <data key="d10">3</data>
+  <data key="d11">3</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCNiMNUJvaRJb0_QLClqwVnA" target="TT4qJ5FXHYE">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCNkcuy42zEwddwEcOd_HpnA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCNpt5CQlTzNjlAKY6CJtClQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCO0zwwLWGyDgQmWPJ5Qrr1w" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCOARn3hnfkB7-_Rwa8Hoqcw" target="WIUZtitfLRw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCOLGv5Pf6BF2wFcwUzgcvHg" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCOLHH4ZpMxPYF-Q6e6wvn5A" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCOS8ViEkccrTZx2w2ccxotA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCOY3XpD9qMCRSA8AA8c4CAw" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCOcUI5XkTYNMSFhZNMIPpGg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCOh6DaZC_x9HASnlRylEMfw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCPLW0HE3siElqCgXfgWxMqg" target="X_FAIef8qlE">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCPNXmbOBVeC4HS-xemvcPtQ" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">3</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCPZueDLrCS4BmTBRMA4q0fA" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">1</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCQIdKuZ-OzuFqy0KjGrgesg" target="JkpVO1hx2f8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCQM2tCKRRytVDRxNUfCDqQQ" target="zweosulrwA8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCQMMuADgqWUOcJpLwHOzC-g" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCQ_-LPP8JAbfkc-b1Q6NvWw" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">31</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCQgYjVngJRfPHDLGB5X6ZjA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCQqetiwzzmRNTM5OWuXarGQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCQqlPPUGqAfWjd-FSh_qn7Q" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCQtICyzWmhC5woCtbNgaSmg" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">5</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCQtSFINs1h6GHkpg9o5kMvg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">12</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCQyOePccUP-fIJYzchAgZYw" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCRAquv8el-tQ30bN7MlmySQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCRETAiYdh2dL5ZxB0_N1zDA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCRcSR3Lvn9DZAmJpVPANfZQ" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">68</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCRelkU8JiZBytTzebJxaa-w" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCRfkkatKrNtAARnXMMYBGlA" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCRlCV9zSn7avAWh-9_XFWqQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCRvPToDkkumha7WJAfCDk1A" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCRznz9-N3Qc1w-qNdLSIY2Q" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">14</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCSTAUWVc1_82DHYeqOsqEFA" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">191</data>
+  <data key="d12">2</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCSou6a2OuYGSvPjm5psquyA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCTD6q1nyIe3Y7HhqjaMj72w" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">8</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCTP3O0rMnc8z8v8jaDQwL0w" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCTTILH6QCIxbTnEWxwRqs1g" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCThW2XNsAaBKme5PUt7n-Zg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCTwSut16JyAg3mX6LVUNGqA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCTylKrsqkrBKIqubMu_5N0Q" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCUIIIPTVDVHAXqhC_5V6lPA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCUoYsrx1oZnCZ0usbBJn4fA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCV0iizTBoOfdAFX_thfI9BA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCV0lM03g5fg5pbPj97-sAtA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCV3fr-YOixFKCZBbJP1-X4w" target="6W4u8sGEnGM">
+  <data key="d10">5</data>
+  <data key="d11">17</data>
+  <data key="d12">0</data>
+  <data key="d13">0.8</data>
+</edge>
+<edge source="UCVC2QugcI1G4RvlCiUqd1aQ" target="ndAZjHqzzT8">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCVQf0tzL7xRzFJsABVVULpg" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.333</data>
+</edge>
+<edge source="UCVdjCrh4tQoX3haNAZv-n5A" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">1</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCVhif9eV0f8plICen2DnpKA" target="WIUZtitfLRw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCW-JC6lebVmf2P1dmY_L94g" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCW80DaMjQlEUibC98Cot-Dg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCWIZUtKJ636y-4TYrNvok0g" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">5</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCWWkebAekppaL5b5CNlppuw" target="JkpVO1hx2f8">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCWaRixDdpgllTBf4V0jPnKQ" target="6W4u8sGEnGM">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.667</data>
+</edge>
+<edge source="UCWoAVGVqCn4xtINCMOTM4jg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCWvntqPQx99k_Z_skWKqNSA" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCXN2s7DwTJm33xO-pNkAdaA" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCXO1BBohNWXkK9SBDAG2ySg" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCXSkL3ejZ8qWYyF_M7s_QKA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCXVLc8CmAO813ubM-fLvCDw" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">7</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCXXh7yg5KUFIWylTiKVEFKQ" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCXgr7vXlRrsaskPdo097kGA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCXl30Y_upRqbti52fmjK4YA" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCXmrpc6Li0spcKxtS0Q_ptg" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">10</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCXr8_5WtGeipe4haOoQDgyQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCY7Hq7F9Lnucf-Yr6JkHZNw" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">79</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCYN4wSQ1Sx4_LurxLlW7MPg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.5</data>
+</edge>
+<edge source="UCYwpX26TrCxq8TvbKGRYLXA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCZ51R_9Q9C0c8I3pAWhtmjQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">8</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCZFQwqh90apuL8eFhvRBkUg" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">9</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCZIQnb1fkwe39Iw2TAu-bGA" target="WIUZtitfLRw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCZLG9qH0tUjNhEGFIUt0CYw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCZOmq6MwFDVoCaEl99BRRaw" target="ndAZjHqzzT8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCZeIIQrGAedW8tCbKWmGY-A" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">9</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCZjm6U576nX8WOiLhmMR3bw" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">1</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UC_3xuTXvMIWU5MYP9HkJ3vQ" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UC_6KbBY1bsYXz9fwFS0eQRg" target="ndAZjHqzzT8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC_LYoGs5C3mbZKZuKuqYCvw" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">7</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC_NRVt2UP88ZNTwzrZ66JSg" target="UhL9y3KUl8E">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UC_ljZ1hZXR9pzexFz87P5ZA" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCa36MjQLoPAmgJo-R3G8WQA" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCaKAjTW9MVub_clgr4DRYjQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">6</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCaT4saRcyqCLE657Rq2hhZQ" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCaT6M2zp7X6r6Whd8Vv3kHQ" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCat2qkYvqmtDNEmo2PVuhXw" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCbNanjFI51cwGqMAb2rOrBw" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCbYoNG5J3Au5BqtbXogfEFw" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCbrtvygfRT6QXqWDNrOf-cA" target="ndAZjHqzzT8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCbrtvygfRT6QXqWDNrOf-cA" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCcFIBN-rtC3d3hXeuN5TfWw" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCc_F88PzGWtA1OPNUEASulA" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCcfdg8crmMJwEuLUsAhV7yg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCdFlugHJJa4l3YqWuNRmvXw" target="is3Mk5oC19g">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCdFlugHJJa4l3YqWuNRmvXw" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCdQAuWwyC99MB7Y02Umj26Q" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCe8JZoYkX5oKUZyivHYdXhw" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCeDNEtI8_a42bZ47wJiJMwQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCeQk-WfEA-cJRq4EKeE7TOw" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCefAH1MbvADWUjE9WVcB9EQ" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCf5lnNZF7Qrtli9v4N_23WQ" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCfM3nrxtTQMY5jFx1v1J4Gg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCfRqgt2O-vjzUDMZY_tnxQw" target="is3Mk5oC19g">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCfXykdbSU97rj987LDUGfvg" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCfjhejO7LZy4doXURa7LZCQ" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCfo_yUPzy1f1POwwZxhZ06Q" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCg3eIfd7BrsLEqS0BLkftHA" target="PjmxCj-a9Hg">
+  <data key="d10">3</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCgGqw4aqMdMVSGkKiMgrJRQ" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCgJNFj5dnxXpcMvmuhZDPxA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCgLrWFdYitoP-b7-PxtUr-w" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">405</data>
+  <data key="d12">3</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCgLurCo-e019HGODcjXHWCw" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCgQJgI9vu1FI2dnC9mrFthw" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCgQw_Sbq3ugruDUKsq1e0-A" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCgvw7xIdGFupzpt1Y_BFkEA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCh5ESQvtzyHDhCA7XyekCFA" target="n8iP75gIpmw">
+  <data key="d10">3</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.667</data>
+</edge>
+<edge source="UChT7pzGytNd92Nmvi-zuWog" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UChZknRmJkeGeQk0-mQuhDOg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCheEJ5GZuIvV0fj-nXyVwXw" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UChep9kVb5gQmpodEEl10Xlg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UChgkn5Jt5tWKYMoEOuCjz3Q" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UChs3tU2BcKOT0CezykvAsGw" target="n8iP75gIpmw">
+  <data key="d10">3</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.333</data>
+</edge>
+<edge source="UChyps3dqY-VY1_wLeq-2lhw" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">14</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCi-vPdnpQreC7BkFs40mJGA" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">35</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCi1b_TRQfgO1Z9O2gNGGWNA" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.333</data>
+</edge>
+<edge source="UCi2KiZq63sRq8Mfbcp-MelQ" target="OkXlHx0hx-8">
+  <data key="d10">6</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCiC-Jn7wdgyQV4_Urk0DkWQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCiGRBf2RNF0WRKhRVT7zFoA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCiMythXHsw7eQEMykCdmMUA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCiOZX__1gahg1ypIj0_XG_w" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCipetjeiWj4CZB6EbyYziZg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCj-LL25XJnjxepPKCc3NGog" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCjJf-AJKRFFWtiN-CSwkDmA" target="ndAZjHqzzT8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCjSKM9j0Q7HLDr1hD6D-TUw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCjZgFEowMBrsjodqfovzdKw" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCjZgFEowMBrsjodqfovzdKw" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCjmPuazZJzscrwvk0QR9RVw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.333</data>
+</edge>
+<edge source="UCk4O-J1BhoqPmig1KLGJePA" target="is3Mk5oC19g">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCkVtmkK07b2zaVVNssX4lOg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCkbsS_3D-pvg1iHOld9uvIg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCkd9W714-947dEE6ZOEBATA" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCkxdJ_yGN2gghOMo2ybQtXQ" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCl0ekS9Tt0jJGtOEM18S63w" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCld2stqxaVSk0QdGncM224A" target="TT4qJ5FXHYE">
+  <data key="d10">1</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UClhMWQ7XKWywYvbRnuf8QsA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCljDbleJul41G1TzOjOZAVA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UClqA491Xa5fQcXcJJa-vTWw" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UClsrFGJKWPxxw7MiaEdKLXw" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">2</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCmjppp6ujz3SAnULvP3sZMw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCmvOgzmmXbjUthHy-WJ52hQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCnU8wO1OurAmGstDw6VGjgQ" target="ndAZjHqzzT8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.6</data>
+</edge>
+<edge source="UCoGdCoJg2Lh0OX_jv6cG16g" target="6W4u8sGEnGM">
+  <data key="d10">2</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UColMq7LmaoY3MT6aIDGrGvA" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCozFYHN0e_-vlQbX3wQGOug" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">5</data>
+  <data key="d12">2</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCp29O_C7cchZV8IxV7Crdag" target="6W4u8sGEnGM">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.5</data>
+</edge>
+<edge source="UCp4iw5_5SmV9VGTFSNVGOmQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCpIdtvoFHVLGASGB5ySqIEA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCp_dAUfv8i3LW3zWc24dLaQ" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCpe5jW3MIqkgTJ-PgkzvM6Q" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCpl8rF8uv_8uui-QRvuJaRA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCplrIQtaPj6au60_f2-mOYw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCpsKOkt5iWTbenzeuq7dsmQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCpsKOkt5iWTbenzeuq7dsmQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCpsKOkt5iWTbenzeuq7dsmQ" target="ndAZjHqzzT8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCq3mDTTRZnUybct5M9OSXbg" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCqCrvuoJpC-aVb0f4logQRQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCqilIa8r7iek5sGYg_q6ofA" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">52</data>
+  <data key="d12">1</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCql1n3Ey6ULMSOACjMe-fxQ" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">6</data>
+  <data key="d12">7</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCr1emrogPKkKTs_WTtx71xg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCrJn_rbo_ENAdeqneS-RmRw" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCrqXyRsg-_hTosURZ-uvoKg" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCsGoJEvb-cFPZ2rWoJcXzEQ" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">10</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCsJJAvrVGupdmhOqgtDp8dg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCsSXdJct-nsS8DsABoEsaYA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">1</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCsUCN0Yq_UyTvKjOJLmNrnQ" target="b_Hkrkl3adA">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCsUCN0Yq_UyTvKjOJLmNrnQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCs_5qeqdku9tGAq22y3OcuQ" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">4</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCsjs5Hp_r86x1xbK6FAeqaA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCtCtts20bW6F9CSohau51Iw" target="6W4u8sGEnGM">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCtMBF_1O2jY2INlb_luuB_A" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">15</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCtNfIBnc5S5DbbQj_yxgJTw" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCtNyHmRZtvGF2hSvI2dUBWw" target="PjmxCj-a9Hg">
+  <data key="d10">2</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.5</data>
+</edge>
+<edge source="UCtUR3_CAiE7fCoZHM6cMfyQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">10</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCtiHFjFu7d5v2XxHnKFUYig" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCtowGNY2lnlg6O2CkwDgkLg" target="TT4qJ5FXHYE">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCtsxPYw8VUsH_FfnKg-0lmw" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCu8_3-Wg-YzNyvHYQDEscfw" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCuP4UK33HKtJE_S39ksmaTw" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCuXmOjxC-htcprLgeVXz6Tg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCueV9cTyTDwgQSec1x2dYgA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCujPF2nBgsTD62nWE3lcpIg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCusjriFsDHEc2AOjqk-p5ig" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCut6b9S98nv84cVX89PmKzA" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.5</data>
+</edge>
+<edge source="UCvApqeCbLod-wejtT4CcVuA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">15</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCvDwJBBY1mHK70aTEYl6rsA" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCvcu1kR8xMYy_I1Ty-2mV2Q" target="WIUZtitfLRw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCvcu1kR8xMYy_I1Ty-2mV2Q" target="ndAZjHqzzT8">
+  <data key="d10">2</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.5</data>
+</edge>
+<edge source="UCvcu1kR8xMYy_I1Ty-2mV2Q" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCvl1tzQeBeGy6efPTRJXSCw" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCwCfs-2zbD5k0lG-UVg_JBw" target="06mFNPU0aB8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCwEe1RKlEv1UpNWmWYfSh4w" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCwO2SXr0ggzwg6QWWrr01nQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">11</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCwUAv3_LpWVtTIi7lkmTL7A" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">16</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCwW2OFy95P7ZBkOPxWkpvYg" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCwgCc9Jd_gG-uLE_SY-FfPg" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCwha8rxULYMVtNwZWeSkE1A" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCwjUvRseNtJoItylIyIez7Q" target="j43HgwYFKfk">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCwxoKK59nGCeBqB2sXfDBIw" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">1</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCxKR3RA8T-kxMgq_2WWhRcQ" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">329</data>
+  <data key="d12">5</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCxcoDvP-g2_KTZDmVZtvb3w" target="yLZS3JiEBg8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCxff05WuyvwELNITi7bj7UA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">3</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCxhtlxPV8AYWaNNyU6S9H8Q" target="OkXlHx0hx-8">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCyJhqmMbsvjpoarBBStA2kg" target="6W4u8sGEnGM">
+  <data key="d10">6</data>
+  <data key="d11">14</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCySYJU5kUh7X8gVt9la2ISA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCyW68EGZey4ao_Vf2cR5Ztg" target="WIUZtitfLRw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCylqlpsh8ENNM1LqgQ1KbxA" target="j43HgwYFKfk">
+  <data key="d10">2</data>
+  <data key="d11">1</data>
+  <data key="d12">0</data>
+  <data key="d13">-0.5</data>
+</edge>
+<edge source="UCylqlpsh8ENNM1LqgQ1KbxA" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCyor0Mmm0ivLX2jIdyGp84Q" target="3Nfp9h5avBI">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCyzf29IYjNw67gGIfsjgtxA" target="lj983NWyAQY">
+  <data key="d10">1</data>
+  <data key="d11">45</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCz3gu01bmjNv0DpRq-K3XYg" target="n8iP75gIpmw">
+  <data key="d10">2</data>
+  <data key="d11">2</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCzSfZlOVxBSs5ObD25ywxDQ" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">-1.0</data>
+</edge>
+<edge source="UCzZ6dDCEsLMXbc5pCFXIprw" target="6W4u8sGEnGM">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">1.0</data>
+</edge>
+<edge source="UCzZ6dDCEsLMXbc5pCFXIprw" target="PjmxCj-a9Hg">
+  <data key="d10">1</data>
+  <data key="d11">0</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+<edge source="UCzoL2l5H5eVlorWGH8AZfAg" target="n8iP75gIpmw">
+  <data key="d10">1</data>
+  <data key="d11">6</data>
+  <data key="d12">0</data>
+  <data key="d13">0.0</data>
+</edge>
+</graph></graphml>

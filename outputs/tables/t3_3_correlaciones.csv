@@ -1,0 +1,4 @@
+﻿relación,medida,coeficiente,p_valor,n
+view_count vs nº comentarios,Spearman ρ,0.811,0.0,19
+log(view_count) vs log(nº comentarios),Pearson r,0.718,0.0005,19
+view_count vs nº autores únicos,Spearman ρ,0.812,0.0,19

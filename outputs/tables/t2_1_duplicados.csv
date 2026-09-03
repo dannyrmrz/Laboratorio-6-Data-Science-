@@ -1,0 +1,9 @@
+﻿dataset,criterio,n_duplicados
+youtube_videos,fila completa idéntica,0
+youtube_videos,video_id repetido,0
+youtube_videos,video_url repetida,0
+youtube_videos,title repetido (distinto video),19
+youtube_comments,fila completa idéntica,0
+youtube_comments,comment_id repetido,0
+youtube_comments,texto del comentario repetido,2
+youtube_comments,mismo autor + mismo video (comentarios múltiples),63

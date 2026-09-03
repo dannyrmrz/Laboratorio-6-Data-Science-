@@ -1,0 +1,8 @@
+﻿indicador,valor
+Comentarios en el conjunto de datos,406.0
+Aristas únicas (pares autor–video),343.0
+Suma de los pesos de las aristas,406.0
+Aristas con peso = 1 (un solo comentario),303.0
+Aristas con peso ≥ 2 (participación repetida),40.0
+Peso máximo observado,6.0
+Peso medio,1.184

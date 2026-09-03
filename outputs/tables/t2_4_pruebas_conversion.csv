@@ -1,0 +1,11 @@
+﻿entrada,como_like (vacío=0),como_view (vacío=NaN)
+"'2,390 vistas'","(2390, 'entero_directo')","(2390, 'entero_directo')"
+"'8,190,449 vistas'","(8190449, 'entero_directo')","(8190449, 'entero_directo')"
+'1.2 mil vistas',"(12000, 'abreviatura')","(12000, 'abreviatura')"
+'3.4 M',"(34000000, 'abreviatura')","(34000000, 'abreviatura')"
+'12 K',"(12000, 'abreviatura')","(12000, 'abreviatura')"
+'  ',"(0, 'vacio_a_cero')","(nan, 'vacio_a_nulo')"
+'',"(0, 'vacio_a_cero')","(nan, 'vacio_a_nulo')"
+None,"(0, 'vacio_a_cero')","(nan, 'nulo')"
+'sin datos',"(0, 'vacio_a_cero')","(nan, 'no_numerico')"
+'45',"(45, 'entero_directo')","(45, 'entero_directo')"

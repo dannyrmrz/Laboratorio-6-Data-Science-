@@ -1,0 +1,7 @@
+﻿indicador,n,proporcion,porcentaje
+Comentarios totales,406,1.0,100.0%
+Comentarios asociados a un video del archivo,406,1.0,100.0%
+Comentarios huérfanos (video_id sin correspondencia),0,0.0,0.0%
+Videos totales en youtube_videos.csv,293,1.0,100.0%
+Videos CON al menos un comentario recolectado,19,0.06484641638225255,6.5%
+Videos SIN comentarios recolectados,274,0.9351535836177475,93.5%

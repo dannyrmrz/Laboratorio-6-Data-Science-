@@ -1,0 +1,38 @@
+﻿dataset,variable,tipo_pandas,no_nulos,faltantes,pct_faltantes,vacios_o_espacios,n_unicos,es_constante,ejemplo
+youtube_videos,video_id,string,293,0,0.0,0,293,False,-5puKGEqcUc
+youtube_videos,title,object,293,0,0.0,0,274,False,INSIVUMEH pronostica incremento de lluvias pa
+youtube_videos,channel_name,object,293,0,0.0,0,97,False,T13 Noticias Guatemala
+youtube_videos,channel_id,string,293,0,0.0,0,97,False,UCq0Cm-3SKthEySQc2JZBi1A
+youtube_videos,source_query,object,293,0,0.0,0,21,False,guatemala lluvias
+youtube_videos,source_group,object,293,0,0.0,0,3,False,topic
+youtube_videos,dataset_sources,object,293,0,0.0,0,23,False,youtube_guatemala.csv | youtube_guatemala_lab
+youtube_videos,channel_handle,object,293,0,0.0,0,97,False,/@T13NoticiasGuatemala
+youtube_videos,published_time,object,280,13,4.44,13,80,False,hace 2 días
+youtube_videos,view_count_text,object,280,13,4.44,13,259,False,"2,390 vistas"
+youtube_videos,description_snippet,object,268,25,8.53,25,236,False,El Departamento de Pronóstico de INSIVUMEH pr
+youtube_videos,video_url,object,293,0,0.0,0,293,False,https://www.youtube.com/watch?v=-5puKGEqcUc
+youtube_videos,query_hits,object,293,0,0.0,0,26,False,"[""guatemala lluvias""]"
+youtube_videos,keywords,object,293,0,0.0,0,106,False,"[""Canícula prolongada"", ""Chapin tv"", ""Fenómen"
+youtube_videos,description,object,267,26,8.87,26,234,False,El Departamento de Pronóstico de INSIVUMEH pr
+youtube_videos,view_count,int64,293,0,0.0,0,267,False,2357
+youtube_videos,publish_date,object,293,0,0.0,0,293,False,2026-08-28T22:00:20-07:00
+youtube_videos,upload_date,object,293,0,0.0,0,293,False,2026-08-28T22:00:20-07:00
+youtube_videos,category,object,293,0,0.0,0,11,False,News & Politics
+youtube_videos,owner_handle,object,293,0,0.0,0,97,False,/@T13NoticiasGuatemala
+youtube_comments,video_id,string,406,0,0.0,0,19,False,j43HgwYFKfk
+youtube_comments,comment_id,string,406,0,0.0,0,406,False,Ugw-J65a1iYL9hqhELh4AaABAg
+youtube_comments,video_title,object,406,0,0.0,0,19,False,La cooptación de Walter Mazariegos en la USAC
+youtube_comments,channel_name,object,406,0,0.0,0,8,False,Quorum
+youtube_comments,channel_id,string,406,0,0.0,0,8,False,UCE4rsXcgDb6e1-a9iTbWzfg
+youtube_comments,author_name,object,406,0,0.0,0,332,False,@MarcosCarillo-b1r
+youtube_comments,author_channel_id,string,406,0,0.0,0,332,False,UCdFlugHJJa4l3YqWuNRmvXw
+youtube_comments,text,object,406,0,0.0,0,404,False,Ese corrupto amigo de la vieja fiscal los ten
+youtube_comments,source_query,object,406,0,0.0,0,6,False,@quorumgt
+youtube_comments,source_group,object,406,0,0.0,0,2,False,topic
+youtube_comments,dataset_sources,object,406,0,0.0,0,8,False,j43HgwYFKfk_out_comments.csv | quorum_complet
+youtube_comments,author_handle,object,406,0,0.0,0,332,False,/@MarcosCarillo-b1r
+youtube_comments,published_text,object,406,0,0.0,0,39,False,hace 6 meses
+youtube_comments,like_count_text,object,406,0,0.0,189,31,False, 
+youtube_comments,reply_count,int64,406,0,0.0,0,6,False,0
+youtube_comments,is_pinned,bool,406,0,0.0,0,1,True,False
+youtube_comments,viewer_rating,float64,0,406,100.0,0,0,True,

@@ -1,0 +1,20 @@
+﻿campo,tabla,descripción
+id,nodos,Identificador del nodo: author_channel_id (autores) o video_id (videos)
+tipo,nodos,Tipo de nodo: 'autor' o 'video' (partición bipartita)
+etiqueta,nodos,Nombre visible del autor o título del video (sólo para mostrar)
+handle,nodos,"Handle normalizado, sin '/@' (sólo para mostrar)"
+grado,nodos,Nº de nodos distintos del otro conjunto a los que se conecta
+grado_ponderado,nodos,Suma de los pesos de sus aristas = nº total de comentarios
+n_comentarios,nodos,Comentarios escritos (autor) o recibidos (video)
+n_autores,nodos,Sólo videos: autores únicos que comentaron
+n_videos,nodos,Sólo autores: videos distintos en los que comentó
+n_canales,nodos,Sólo autores: canales distintos alcanzados
+me_gusta_total,nodos/aristas,Suma de 'me gusta' de los comentarios implicados
+respuestas_recibidas,nodos,Suma de reply_count (NO define aristas)
+polaridad_media,nodos/aristas,Polaridad preliminar media por léxico (§3.5)
+view_count,nodos,Sólo videos: visualizaciones al momento de la recolección
+es_puente_potencial,nodos,Sólo autores: True si comentó en más de un video
+componente,nodos/aristas,Índice de la componente conexa (0 = la mayor)
+source / target,aristas,Autor y video conectados por la arista
+weight,aristas,Nº de comentarios del autor en ese video
+type,aristas,'Undirected': la red no es dirigida

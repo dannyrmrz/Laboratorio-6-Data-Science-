@@ -1,0 +1,16 @@
+﻿indicador,valor
+Nodos totales,351
+  · autores,332
+  · videos,19
+Aristas,343
+Suma de pesos (= comentarios),406
+Densidad bipartita,0.05438
+Grado medio — autores,1.033
+Grado medio — videos,18.05
+Grado máximo — autores,3
+Grado máximo — videos,128
+Autores de grado 1 (un solo video),323
+Componentes conexas,10
+Tamaño de la componente mayor,286
+% de nodos en la componente mayor,81.5%
+Nodos aislados (grado 0),0
