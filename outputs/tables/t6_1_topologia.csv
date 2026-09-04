@@ -1,0 +1,4 @@
+﻿Red,Nodos,Aristas,Densidad,Grado medio,Componentes conexos,Nodos en comp. mayor,% en comp. mayor
+Bipartita (Autor-Video),351,343,0.0544,1.95,10,286,81.5%
+Proyección Autor-Autor,332,10732,0.1953,64.65,10,276,83.1%
+Proyección Video-Video,19,11,0.0643,1.16,10,10,52.6%
