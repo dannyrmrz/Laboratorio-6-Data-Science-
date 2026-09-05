@@ -1,0 +1,5 @@
+﻿Categoría,n,Estatus
+Videos en la red (con comentarios recolectados),19,observado
+Videos del catálogo fuera de la red,274,AUSENCIA DE DATOS (no es aislamiento)
+Videos aislados dentro de la red (grado 0 en video-video),9,aislamiento observado
+Autores aislados dentro de la red (grado 0 en autor-autor),4,aislamiento observado

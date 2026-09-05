@@ -1,0 +1,4 @@
+﻿Red,Transitividad global,Clustering medio,Conect. de nodos (comp. mayor),Conect. de aristas (comp. mayor),Puntos de articulación,Distancia media (comp. mayor),Diámetro (comp. mayor)
+Bipartita (Autor-Video),0.000,0.000,1,1,17,4.715,12
+Proyección Autor-Autor,0.984,0.972,1,5,7,2.356,6
+Proyección Video-Video,0.316,0.149,1,1,5,2.489,5
