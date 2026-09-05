@@ -1,35 +1,14 @@
-# Laboratorio 6 - Analisis de redes sociales (YouTube)
-# CC3084 Data Science | UVG | Semestre II 2026
-#
-# Instalacion:  pip install -r requirements.txt
-# Probado con Python 3.11.8 en Windows 11.
-
-# --- Manipulacion de datos ---------------------------------------------------
 pandas>=2.0
 numpy>=1.24
-
-# --- Analisis de redes -------------------------------------------------------
 networkx>=3.0
-
-# --- Estadistica -------------------------------------------------------------
 scipy>=1.10
-
-# --- Visualizacion -----------------------------------------------------------
 matplotlib>=3.7
 seaborn>=0.12
 wordcloud>=1.9
-
-# --- Procesamiento de lenguaje natural (espanol) -----------------------------
-# nltk: lista de palabras vacias en espanol.
-#   Tras instalar, ejecutar una vez:  python -c "import nltk; nltk.download('stopwords')"
 nltk>=3.8
-# simplemma: lematizador en espanol basado en diccionario, 100% Python puro.
-#   Se eligio frente a spaCy porque spaCy requiere extensiones compiladas que
-#   fueron bloqueadas por una directiva de Control de aplicaciones de Windows en
-#   el equipo de desarrollo (ver seccion 2.6 del notebook).
 simplemma>=1.0
-
-# --- Ejecucion del notebook --------------------------------------------------
+transformers>=4.30
+torch>=2.0
 jupyter>=1.0
 nbconvert>=7.0
 nbclient>=0.8
